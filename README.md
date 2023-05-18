@@ -1,5 +1,5 @@
 
-## <a href=""> OOPS Playlist </a>
+## <a href="https://docs.google.com/document/d/1JvdIM-TORcYevBP263eXeJXZwZMwrOs608q8Qa-cmxY/edit?usp=sharing"> OOPS Playlist </a>
 <details>
 <summary>Important Topics for Object-Oriented Programming (OOP)</summary>
 <br>
@@ -28,7 +28,7 @@
 </details>
 
 
-## <a href=""> DBMS Playlist </a>
+## <a href="https://docs.google.com/document/d/1tuHLsqLimpfy0PgdrwbgtjKji4hiyG_QSMR-vXHCVfU/edit?usp=sharing"> DBMS Playlist </a>
 
 
 <details>
@@ -52,7 +52,7 @@
 
 </details>
 
-## <a href=""> CN Playlist </a>
+## <a href="https://docs.google.com/document/d/10P4v_HAt5szN4Xz71lm1itDemz_x-k9cN_PHqbsZESg/edit?usp=sharing"> CN Playlist </a>
 
 <details>
 <summary>Important Topics for Computer Networks</summary>
@@ -72,7 +72,7 @@
 </details>
 
 
-## <a href=""> OS Playlist </a>
+## <a href="https://docs.google.com/document/d/1YZTjq4WtG-GAIp7vfL6EbqVTYSmBUwD8GDjQBKhK3AM/edit?usp=sharing"> OS Playlist </a>
 
 <details>
 <summary>Important Topics for Operating Systems</summary>
